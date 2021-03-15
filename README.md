@@ -1,2 +1,2 @@
 # slow-site
-A site to be improved
+A site that has been improved somewhat
