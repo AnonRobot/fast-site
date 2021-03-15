@@ -1,14 +1,14 @@
 .bodyColor {
-	background-color: "grey";
+	background-color: grey;
 }
 .profilePic {
 	width: 35%;
 }
 .name {
-	position: "relative";
-	display: "block";
-	border: "1px solid red";
-	background-color: "blue";
+	position: relative;
+	display: block;
+	border: 1px solid red;
+	background-color: blue;
 }
 .nameContainer {
 	height: 80px;
